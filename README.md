@@ -1,4 +1,4 @@
-# Power_adversaries
+# Power_adversary
 
 
 The code repo for Is Machine Learning in Power Systems Vulnerable?
