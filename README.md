@@ -1,4 +1,5 @@
-# Power_adversary
+# Power_adversaries
+
 The code repo for Is Machine Learning in Power Systems Vulnerable?
 
 Paper accepted to SmartGridComm2018, Workshop on AI in Energy Systems.
