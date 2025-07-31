@@ -1,4 +1,4 @@
-# Power_adversaries
+# Power_adversary
 
 
 
